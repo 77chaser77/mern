@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "MERN STACK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1, ",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "MONGODB",
+    "EXPRESS",
+    "REACT",
+    "Node.js"
+  ],
+  "author": "77chaser77",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cose": "^0.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0",
+    "mongos": "^0.0.0",
+    "nodemon": "^2.0.19"
+  }
+}
